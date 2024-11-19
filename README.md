@@ -11,8 +11,3 @@
 
 
 ---
-
-Feel free to use this for your GitHub profile. Let me know if there's anything else you need!
-Syed-portfolio/Syed-portfolio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
